@@ -1,10 +1,12 @@
-# Hi, I'm Mansour Alhenaki 
+# Hi, I'm Mansour Alhenaki 👋
 
 Passionate about Artificial Intelligence, Data Science, and building AI-driven solutions.
 
 ---
 
 ## Interests
+- Artificial Intelligence
+- Data Science
 - Machine Learning
 - Computer Vision
 - NLP & RAG Systems
@@ -15,6 +17,8 @@ Passionate about Artificial Intelligence, Data Science, and building AI-driven s
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data%20Science-0A66C2?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -25,20 +29,20 @@ Passionate about Artificial Intelligence, Data Science, and building AI-driven s
 
 ## Featured Projects
 
-| Project | Description |
-|---|---|
-| [Industrial Safety Monitoring System](https://github.com/mansour-alhenaki/industrial-safety-monitoring-system) | AI-powered industrial safety monitoring system using YOLOv8, OpenCV, and FastAPI for PPE detection, worker tracking, and real-time safety analysis. |
-| [HudAI Results Showcase](https://github.com/mansour-alhenaki/HudAI-Results-Showcase) | Intelligent Islamic knowledge system using NLP, RAG, and LLMs to provide trustworthy answers with verified Islamic references. |
-| [Traffic Congestion Analysis Dashboard](https://github.com/mansour-alhenaki/traffic-congestion-analysis-dashboard) | Interactive traffic congestion analysis dashboard built with Streamlit and data visualization techniques to explore traffic patterns and congestion insights. |
-| [WC2026 Prediction Engine](https://github.com/mansour-alhenaki/wc2026-prediction-engine) | AI-powered World Cup 2026 prediction system using machine learning, Elo ratings, Poisson regression, and Monte Carlo simulation. |
+| Project | Description | Technologies |
+|---|---|---|
+| [Industrial Safety Monitoring System](https://github.com/mansour-alhenaki/industrial-safety-monitoring-system) | AI-powered industrial safety monitoring system for PPE detection, worker tracking, and real-time safety analysis in industrial environments. | YOLOv8, OpenCV, FastAPI, Computer Vision, Python |
+| [HudAI Results Showcase](https://github.com/mansour-alhenaki/HudAI-Results-Showcase) | Intelligent Islamic knowledge system using RAG and LLMs to deliver trustworthy answers with verified Islamic references. | NLP, RAG, LLMs, FastAPI, Flutter, Firebase |
+| [Traffic Congestion Analysis Dashboard](https://github.com/mansour-alhenaki/traffic-congestion-analysis) | Interactive dashboard for analyzing traffic congestion patterns, travel times, and city traffic insights using visual analytics. | Python, Streamlit, Pandas, Data Analysis, Visualization |
+| [WC2026 Prediction Engine](https://github.com/mansour-alhenaki/wc2026-prediction-engine) | AI-powered World Cup prediction engine using machine learning models and simulation techniques to predict tournament outcomes. | Machine Learning, Elo Rating, Monte Carlo Simulation, Python |
 
 ---
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansour-alhenaki&show_icons=true&theme=tokyonight)
+![Mansour's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansour-alhenaki&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mansour-alhenaki&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mansour-alhenaki&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
