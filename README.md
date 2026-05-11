@@ -8,13 +8,11 @@ AI & Data Science Enthusiast | Machine Learning & Computer Vision
 
 ## About Me
 
-I'm an Information Systems graduate from Imam Mohammad Ibn Saud Islamic University with a strong passion for Artificial Intelligence, Data Science, and intelligent systems. I completed the Data Science & AI Bootcamp at Tuwaiq Academy and enjoy building AI-driven solutions, data analysis projects, and real-world intelligent applications.
+I'm an Information Systems graduate with a strong interest in Artificial Intelligence and Data Science. I enjoy building AI-driven projects, exploring modern technologies, and continuously improving my skills through hands-on learning and real-world applications.
 
 - Information Systems Graduate | Tuwaiq Academy — Data Science & AI Bootcamp
-- Interested in Artificial Intelligence, Machine Learning, and Data Analysis
-- Currently working on AI, Computer Vision, and analytics projects
-- Continuously learning and expanding my skills in AI technologies and intelligent systems
-
+- Currently working on AI, Machine Learning, and Data Analysis projects
+- Always learning and expanding my skills in AI technologies and intelligent systems
 ---
 
 ## Tech Stack
