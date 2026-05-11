@@ -38,14 +38,6 @@ Passionate about Artificial Intelligence, Data Science, and building AI-driven s
 
 ---
 
-## GitHub Stats
-
-![Mansour's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansour-alhenaki&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mansour-alhenaki&layout=compact&theme=tokyonight&cache_seconds=1800)
-
----
-
 ## Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/mansour-alhenaki-011656218)
