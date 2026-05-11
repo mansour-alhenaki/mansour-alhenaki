@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Mansour Alhenaki 
 
-<!--
-**mansour-alhenaki/mansour-alhenaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fresh Information Systems graduate passionate about Artificial Intelligence and Data Science.
 
-Here are some ideas to get you started:
+## Interests
+- Machine Learning
+- Computer Vision
+- NLP & RAG Systems
+- Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Python • FastAPI • Flask • YOLOv8 • OpenCV • Streamlit
+
+## Featured Projects
+- Industrial Safety Monitoring System
+- HudAI
+- Traffic Congestion Analysis Dashboard
+
+## Connect with me
+LinkedIn:
+www.linkedin.com/in/mansour-alhenaki-011656218
