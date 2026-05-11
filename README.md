@@ -1,4 +1,4 @@
-# Hi, I'm Mansour Alhenaki 👋
+# Hi, I'm Mansour Alhenaki 
 
 Passionate about Artificial Intelligence, Data Science, and building AI-driven solutions.
 
@@ -24,9 +24,13 @@ Passionate about Artificial Intelligence, Data Science, and building AI-driven s
 ---
 
 ## Featured Projects
-- Industrial Safety Monitoring System
-- HudAI
-- Traffic Congestion Analysis Dashboard
+
+| Project | Description |
+|---|---|
+| [Industrial Safety Monitoring System](https://github.com/mansour-alhenaki/industrial-safety-monitoring-system) | AI-powered industrial safety monitoring system using YOLOv8, OpenCV, and FastAPI for PPE detection, worker tracking, and real-time safety analysis. |
+| [HudAI Results Showcase](https://github.com/mansour-alhenaki/HudAI-Results-Showcase) | Intelligent Islamic knowledge system using NLP, RAG, and LLMs to provide trustworthy answers with verified Islamic references. |
+| [Traffic Congestion Analysis Dashboard](https://github.com/mansour-alhenaki/traffic-congestion-analysis-dashboard) | Interactive traffic congestion analysis dashboard built with Streamlit and data visualization techniques to explore traffic patterns and congestion insights. |
+| [WC2026 Prediction Engine](https://github.com/mansour-alhenaki/wc2026-prediction-engine) | AI-powered World Cup 2026 prediction system using machine learning, Elo ratings, Poisson regression, and Monte Carlo simulation. |
 
 ---
 
