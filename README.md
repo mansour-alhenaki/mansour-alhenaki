@@ -1,16 +1,19 @@
-# Hi, I'm Mansour Alhenaki 
+# Hi there, I'm Mansour 
 
-Passionate about Artificial Intelligence, Data Science, and building AI-driven solutions.
+AI & Data Science Enthusiast | Machine Learning & Computer Vision
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&color=38BDF8&width=700&lines=Artificial+Intelligence+Enthusiast;Data+Science+%26+Machine+Learning;Computer+Vision+Projects;Data+Analysis+%26+Dashboards;Building+AI-driven+Solutions)](https://git.io/typing-svg)
 
 ---
 
-## Interests
-- Artificial Intelligence
-- Data Science
-- Machine Learning
-- Computer Vision
-- NLP & RAG Systems
-- Data Analysis
+## About Me
+
+I'm an Information Systems graduate from Imam Mohammad Ibn Saud Islamic University with a strong passion for Artificial Intelligence, Data Science, and intelligent systems. I completed the Data Science & AI Bootcamp at Tuwaiq Academy and enjoy building AI-driven solutions, data analysis projects, and real-world intelligent applications.
+
+- Information Systems Graduate | Tuwaiq Academy — Data Science & AI Bootcamp
+- Interested in Artificial Intelligence, Machine Learning, and Data Analysis
+- Currently working on AI, Computer Vision, and analytics projects
+- Continuously learning and expanding my skills in AI technologies and intelligent systems
 
 ---
 
@@ -33,7 +36,7 @@ Passionate about Artificial Intelligence, Data Science, and building AI-driven s
 |---|---|---|
 | [Industrial Safety Monitoring System](https://github.com/mansour-alhenaki/industrial-safety-monitoring-system) | AI-powered industrial safety monitoring system for PPE detection, worker tracking, and real-time safety analysis in industrial environments. | YOLOv8, OpenCV, FastAPI, Computer Vision, Python |
 | [HudAI Results Showcase](https://github.com/mansour-alhenaki/HudAI-Results-Showcase) | Intelligent Islamic knowledge system using RAG and LLMs to deliver trustworthy answers with verified Islamic references. | NLP, RAG, LLMs, FastAPI, Flutter, Firebase |
-| [Traffic Congestion Analysis Dashboard](https://github.com/mansour-alhenaki/traffic-congestion-analysis) | Interactive dashboard for analyzing traffic congestion patterns, travel times, and city traffic insights using visual analytics. | Python, Streamlit, Pandas, Data Analysis, Visualization |
+| [Traffic Congestion Analysis](https://github.com/mansour-alhenaki/traffic-congestion-analysis) | Interactive dashboard for analyzing traffic congestion patterns, travel times, and city traffic insights using visual analytics. | Python, Streamlit, Pandas, Data Analysis, Visualization |
 | [WC2026 Prediction Engine](https://github.com/mansour-alhenaki/wc2026-prediction-engine) | AI-powered World Cup prediction engine using machine learning models and simulation techniques to predict tournament outcomes. | Machine Learning, Elo Rating, Monte Carlo Simulation, Python |
 
 ---
