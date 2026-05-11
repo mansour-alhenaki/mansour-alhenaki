@@ -1,4 +1,4 @@
-# Hi, I'm Mansour Alhenaki 👋
+# Hi, I'm Mansour Alhenaki 
 
 Passionate about Artificial Intelligence, Data Science, and building AI-driven solutions.
 
